@@ -2,5 +2,5 @@
 
 <div class=''> 
   <span>Programming languages</span>
-  <div style='background-color: red'>Python</div>
+  <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
 </div>
